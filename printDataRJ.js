@@ -5,6 +5,7 @@ load('UnderlinedCell.js');
 load('RTextCell.js');
 
 // Here's where you load the dataset
+// At some point I want to try to set this via CLI
 // load('mountains.js');
 // load('houses.js');
 load('larder.js');
